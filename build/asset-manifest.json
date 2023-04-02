@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio_anik_ahamed/static/css/main.af508c58.css",
+    "main.js": "/portfolio_anik_ahamed/static/js/main.afb13d5a.js",
+    "static/media/avatar.svg": "/portfolio_anik_ahamed/static/media/avatar.add0966d1d63e70b7e86c104beeaa9f1.svg",
+    "static/media/portfolio-img2.png": "/portfolio_anik_ahamed/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/portfolio_anik_ahamed/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/portfolio_anik_ahamed/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/portfolio_anik_ahamed/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/services.png": "/portfolio_anik_ahamed/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/about.png": "/portfolio_anik_ahamed/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/logo.svg": "/portfolio_anik_ahamed/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
+    "index.html": "/portfolio_anik_ahamed/index.html",
+    "main.af508c58.css.map": "/portfolio_anik_ahamed/static/css/main.af508c58.css.map",
+    "main.afb13d5a.js.map": "/portfolio_anik_ahamed/static/js/main.afb13d5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af508c58.css",
+    "static/js/main.afb13d5a.js"
+  ]
+}
